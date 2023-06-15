@@ -1,0 +1,13 @@
+*.zip
+*.png
+!pedestrian.png
+*.avi
+**/__pycache__
+**/logs
+**/runs
+**/images
+**/videos
+**/.spyproject
+**/results
+**/.ipynb_checkpoints
+plots.ipynb
